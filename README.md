@@ -37,13 +37,14 @@
 ### 3. Các màn hình chức năng
 <details>
   <summary>Mô tả</summary>
+
 #### 3.1. Màn hình nhân viên
 
-![Màn hình nhân viên][QuanLySieuThiMayTinh/QuanLySieuThiMayTinh/Resources/Employee.png)
+![Màn hình nhân viên](QuanLySieuThiMayTinh/QuanLySieuThiMayTinh/Resources/EmployeeScreen.png)
 
 #### 3.2. Màn hình nhà cung cấp
 
-![Màn hình nhà cung cấp](QuanLySieuThiMayTinh/QuanLySieuThiMayTinh/Resources/SuppliesScreen.png)
+![Màn hình nhà cung cấp](QuanLySieuThiMayTinh/QuanLySieuThiMayTinh/Resources/SupplierScreen.png)
 
 #### 3.3. Màn hình nhà sản xuất
 
@@ -55,7 +56,7 @@
 
 #### 3.5. Màn hình sản phẩm
 
-![Màn hình sản phẩm](QuanLySieuThiMayTinh/QuanLySieuThiMayTinh/Resources/ProductScreen.png
+![Màn hình sản phẩm](QuanLySieuThiMayTinh/QuanLySieuThiMayTinh/Resources/ProductScreen.png)
 
 #### 3.6. Màn hình đơn đặt hàng
 
