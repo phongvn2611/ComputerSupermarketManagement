@@ -1,0 +1,294 @@
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.csprojAssemblyReference.cache
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmLogin.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.Properties.Resources.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.csproj.GenerateResource.cache
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.csproj.CoreCompileInputs.cache
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmKhachHang.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmMain.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmPhanQuyen.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctDonDatHang.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctLoaiSanPham.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctNhaCungCap.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctNhanVien.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctNhaSanXuat.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctPhieuNhap.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctPhieuXuat.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctSanPham.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctThongKeDonHang.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctThongKePhieuNhap.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctThongKePhieuXuat.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctThongKeTonKho.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\QuanLySieuThiMayTinh.exe.config
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\QuanLySieuThiMayTinh.exe
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\QuanLySieuThiMayTinh.pdb
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\EnvDTE.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\stdole.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.MSXML.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.csproj.CopyComplete
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.exe
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.pdb
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctThongTin.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctHuongDan.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportNhanVien.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\RdlCompile.cache
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\RdlCompile.compiled
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportNhaCungCap.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportNhaSanXuat.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportLoaiSanPham.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportSanPham.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportPhieuNhap.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportDonDatHang.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportPhieuXuat.resources
+D:\Phần mềm cá nhân\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportKhachHang.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\QuanLySieuThiMayTinh.exe.config
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\QuanLySieuThiMayTinh.exe
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\QuanLySieuThiMayTinh.pdb
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\EnvDTE.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\stdole.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.MSXML.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.csprojAssemblyReference.cache
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportDonDatHang.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmKhachHang.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmLogin.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmMain.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmPhanQuyen.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportKhachHang.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportLoaiSanPham.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportNhaCungCap.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportNhanVien.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportNhaSanXuat.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportPhieuNhap.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportPhieuXuat.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportSanPham.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.Properties.Resources.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctDonDatHang.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctHuongDan.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctLoaiSanPham.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctNhaCungCap.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctNhanVien.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctNhaSanXuat.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctPhieuNhap.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctPhieuXuat.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctSanPham.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctThongKeDonHang.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctThongKePhieuNhap.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctThongKePhieuXuat.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctThongKeTonKho.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctThongTin.resources
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.csproj.GenerateResource.cache
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\RdlCompile.cache
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\RdlCompile.compiled
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.csproj.CoreCompileInputs.cache
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.csproj.CopyComplete
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.exe
+D:\Study\WIPR\Project\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.pdb
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\QuanLySieuThiMayTinh.exe.config
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\QuanLySieuThiMayTinh.exe
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\QuanLySieuThiMayTinh.pdb
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\stdole.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportDonDatHang.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmKhachHang.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmLogin.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmMain.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmPhanQuyen.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportKhachHang.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportLoaiSanPham.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportNhaCungCap.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportNhanVien.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportNhaSanXuat.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportPhieuNhap.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportPhieuXuat.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.frmReportSanPham.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctDonDatHang.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctHuongDan.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctLoaiSanPham.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctNhaCungCap.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctNhanVien.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctNhaSanXuat.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctPhieuNhap.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctPhieuXuat.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctSanPham.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctThongKeDonHang.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctThongKePhieuNhap.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctThongKePhieuXuat.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctThongKeTonKho.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.uctThongTin.resources
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\RdlCompile.cache
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\RdlCompile.compiled
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.exe
+C:\Users\ASUS\Desktop\Quản lý siêu thị máy tính\QuanLySieuThiMayTinh\QuanLySieuThiMayTinh\obj\Debug\QuanLySieuThiMayTinh.pdb

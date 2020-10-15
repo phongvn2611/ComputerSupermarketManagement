@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dtsSanPham" targetNamespace="http://tempuri.org/dtsSanPham.xsd" xmlns:mstns="http://tempuri.org/dtsSanPham.xsd" xmlns="http://tempuri.org/dtsSanPham.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QLBANHANGConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QLBANHANGConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.QuanLySieuThiMayTinh.Properties.Settings.GlobalReference.Default.QLBANHANGConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="SanPhamTableAdapter" GeneratorDataComponentClassName="SanPhamTableAdapter" Name="SanPham" UserDataComponentName="SanPhamTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLBANHANGConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT    CTSP.MASP, SANPHAM.TENSP, CTSP.CPU, CTSP.RAM, CTSP.OCUNG, CTSP.CARDMANHINH, CTSP.MANHINH, CTSP.PORTCONNECT, CTSP.HDT, CTSP.AMTHANH, CTSP.DIAQUANG, CTSP.GIAOTIEPMANG, 
+                      CTSP.WEBCAM, CTSP.PIN, CTSP.TRONGLUONG, CTSP.BAOHANH
+FROM         CTSP INNER JOIN
+                      SANPHAM ON CTSP.MASP = SANPHAM.MASP</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MASP" DataSetColumn="MASP" />
+              <Mapping SourceColumn="TENSP" DataSetColumn="TENSP" />
+              <Mapping SourceColumn="CPU" DataSetColumn="CPU" />
+              <Mapping SourceColumn="RAM" DataSetColumn="RAM" />
+              <Mapping SourceColumn="OCUNG" DataSetColumn="OCUNG" />
+              <Mapping SourceColumn="CARDMANHINH" DataSetColumn="CARDMANHINH" />
+              <Mapping SourceColumn="MANHINH" DataSetColumn="MANHINH" />
+              <Mapping SourceColumn="PORTCONNECT" DataSetColumn="PORTCONNECT" />
+              <Mapping SourceColumn="HDT" DataSetColumn="HDT" />
+              <Mapping SourceColumn="AMTHANH" DataSetColumn="AMTHANH" />
+              <Mapping SourceColumn="DIAQUANG" DataSetColumn="DIAQUANG" />
+              <Mapping SourceColumn="GIAOTIEPMANG" DataSetColumn="GIAOTIEPMANG" />
+              <Mapping SourceColumn="WEBCAM" DataSetColumn="WEBCAM" />
+              <Mapping SourceColumn="PIN" DataSetColumn="PIN" />
+              <Mapping SourceColumn="TRONGLUONG" DataSetColumn="TRONGLUONG" />
+              <Mapping SourceColumn="BAOHANH" DataSetColumn="BAOHANH" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dtsSanPham" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dtsSanPham" msprop:Generator_UserDSName="dtsSanPham">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="SanPham" msprop:Generator_TableClassName="SanPhamDataTable" msprop:Generator_TableVarName="tableSanPham" msprop:Generator_TablePropName="SanPham" msprop:Generator_RowDeletingName="SanPhamRowDeleting" msprop:Generator_RowChangingName="SanPhamRowChanging" msprop:Generator_RowEvHandlerName="SanPhamRowChangeEventHandler" msprop:Generator_RowDeletedName="SanPhamRowDeleted" msprop:Generator_UserTableName="SanPham" msprop:Generator_RowChangedName="SanPhamRowChanged" msprop:Generator_RowEvArgName="SanPhamRowChangeEvent" msprop:Generator_RowClassName="SanPhamRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MASP" msprop:Generator_ColumnVarNameInTable="columnMASP" msprop:Generator_ColumnPropNameInRow="MASP" msprop:Generator_ColumnPropNameInTable="MASPColumn" msprop:Generator_UserColumnName="MASP" type="xs:int" />
+              <xs:element name="TENSP" msprop:Generator_ColumnVarNameInTable="columnTENSP" msprop:Generator_ColumnPropNameInRow="TENSP" msprop:Generator_ColumnPropNameInTable="TENSPColumn" msprop:Generator_UserColumnName="TENSP" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CPU" msprop:Generator_ColumnVarNameInTable="columnCPU" msprop:Generator_ColumnPropNameInRow="CPU" msprop:Generator_ColumnPropNameInTable="CPUColumn" msprop:Generator_UserColumnName="CPU" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="RAM" msprop:Generator_ColumnVarNameInTable="columnRAM" msprop:Generator_ColumnPropNameInRow="RAM" msprop:Generator_ColumnPropNameInTable="RAMColumn" msprop:Generator_UserColumnName="RAM" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="OCUNG" msprop:Generator_ColumnVarNameInTable="columnOCUNG" msprop:Generator_ColumnPropNameInRow="OCUNG" msprop:Generator_ColumnPropNameInTable="OCUNGColumn" msprop:Generator_UserColumnName="OCUNG" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CARDMANHINH" msprop:Generator_ColumnVarNameInTable="columnCARDMANHINH" msprop:Generator_ColumnPropNameInRow="CARDMANHINH" msprop:Generator_ColumnPropNameInTable="CARDMANHINHColumn" msprop:Generator_UserColumnName="CARDMANHINH" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MANHINH" msprop:Generator_ColumnVarNameInTable="columnMANHINH" msprop:Generator_ColumnPropNameInRow="MANHINH" msprop:Generator_ColumnPropNameInTable="MANHINHColumn" msprop:Generator_UserColumnName="MANHINH" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PORTCONNECT" msprop:Generator_ColumnVarNameInTable="columnPORTCONNECT" msprop:Generator_ColumnPropNameInRow="PORTCONNECT" msprop:Generator_ColumnPropNameInTable="PORTCONNECTColumn" msprop:Generator_UserColumnName="PORTCONNECT" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="HDT" msprop:Generator_ColumnVarNameInTable="columnHDT" msprop:Generator_ColumnPropNameInRow="HDT" msprop:Generator_ColumnPropNameInTable="HDTColumn" msprop:Generator_UserColumnName="HDT" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="AMTHANH" msprop:Generator_ColumnVarNameInTable="columnAMTHANH" msprop:Generator_ColumnPropNameInRow="AMTHANH" msprop:Generator_ColumnPropNameInTable="AMTHANHColumn" msprop:Generator_UserColumnName="AMTHANH" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DIAQUANG" msprop:Generator_ColumnVarNameInTable="columnDIAQUANG" msprop:Generator_ColumnPropNameInRow="DIAQUANG" msprop:Generator_ColumnPropNameInTable="DIAQUANGColumn" msprop:Generator_UserColumnName="DIAQUANG" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="GIAOTIEPMANG" msprop:Generator_ColumnVarNameInTable="columnGIAOTIEPMANG" msprop:Generator_ColumnPropNameInRow="GIAOTIEPMANG" msprop:Generator_ColumnPropNameInTable="GIAOTIEPMANGColumn" msprop:Generator_UserColumnName="GIAOTIEPMANG" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="WEBCAM" msprop:Generator_ColumnVarNameInTable="columnWEBCAM" msprop:Generator_ColumnPropNameInRow="WEBCAM" msprop:Generator_ColumnPropNameInTable="WEBCAMColumn" msprop:Generator_UserColumnName="WEBCAM" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PIN" msprop:Generator_ColumnVarNameInTable="columnPIN" msprop:Generator_ColumnPropNameInRow="PIN" msprop:Generator_ColumnPropNameInTable="PINColumn" msprop:Generator_UserColumnName="PIN" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TRONGLUONG" msprop:Generator_ColumnVarNameInTable="columnTRONGLUONG" msprop:Generator_ColumnPropNameInRow="TRONGLUONG" msprop:Generator_ColumnPropNameInTable="TRONGLUONGColumn" msprop:Generator_UserColumnName="TRONGLUONG" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="BAOHANH" msprop:Generator_ColumnVarNameInTable="columnBAOHANH" msprop:Generator_ColumnPropNameInRow="BAOHANH" msprop:Generator_ColumnPropNameInTable="BAOHANHColumn" msprop:Generator_UserColumnName="BAOHANH" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:SanPham" />
+      <xs:field xpath="mstns:MASP" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

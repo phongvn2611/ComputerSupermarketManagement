@@ -1,0 +1,550 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0ED922DC-E25C-4995-A90E-CE9F80AFC1FA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLySieuThiMayTinh_LinQ</RootNamespace>
+    <AssemblyName>QuanLySieuThiMayTinh_LinQ</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>C:\Users\ASUS\Downloads\Bunifu_UI_v1.5.3\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1404.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1404.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1404.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1404.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1404.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\DonDatHangBLL.cs" />
+    <Compile Include="BLL\KhachHangBLL.cs" />
+    <Compile Include="BLL\LoaiSanPhamBLL.cs" />
+    <Compile Include="BLL\LoginBLL.cs" />
+    <Compile Include="BLL\NhaCungCapBLL.cs" />
+    <Compile Include="BLL\NhanVienBLL.cs" />
+    <Compile Include="BLL\NhaSanXuatBLL.cs" />
+    <Compile Include="BLL\PhieuNhapBLL.cs" />
+    <Compile Include="BLL\PhieuXuatBLL.cs" />
+    <Compile Include="BLL\SanPhamBLL.cs" />
+    <Compile Include="BLL\TaiKhoanBLL.cs" />
+    <Compile Include="BLL\ThongKeBLL.cs" />
+    <Compile Include="DTO\DonDatHang.cs" />
+    <Compile Include="DTO\KhachHang.cs" />
+    <Compile Include="DTO\LoaiSanPham.cs" />
+    <Compile Include="DTO\Login.cs" />
+    <Compile Include="DTO\NhaCungCap.cs" />
+    <Compile Include="DTO\NhanVien.cs" />
+    <Compile Include="DTO\NhaSanXuat.cs" />
+    <Compile Include="DTO\PhieuNhapHang.cs" />
+    <Compile Include="DTO\PhieuXuatHang.cs" />
+    <Compile Include="DTO\SanPham.cs" />
+    <Compile Include="DTO\TaiKhoan.cs" />
+    <Compile Include="DTO\ThongKe.cs" />
+    <Compile Include="DTO\UserInfo.cs" />
+    <Compile Include="dtsDonDatHang.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dtsDonDatHang.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dtsKhachHang.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dtsKhachHang.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dtsLoaiSanPham.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dtsLoaiSanPham.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dtsNhaCungCap.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dtsNhaCungCap.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dtsNhanVien.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dtsNhanVien.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dtsNhaSanXuat.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dtsNhaSanXuat.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dtsPhieuNhap.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dtsPhieuNhap.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dtsPhieuXuat.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dtsPhieuXuat.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dtsSanPham.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dtsSanPham.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKhachHang.designer.cs">
+      <DependentUpon>frmKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPhanQuyen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPhanQuyen.designer.cs">
+      <DependentUpon>frmPhanQuyen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportDonDatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportDonDatHang.Designer.cs">
+      <DependentUpon>frmReportDonDatHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportKhachHang.Designer.cs">
+      <DependentUpon>frmReportKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportLoaiSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportLoaiSanPham.Designer.cs">
+      <DependentUpon>frmReportLoaiSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportNhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportNhaCungCap.Designer.cs">
+      <DependentUpon>frmReportNhaCungCap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportNhanVien.Designer.cs">
+      <DependentUpon>frmReportNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportNhaSanXuat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportNhaSanXuat.Designer.cs">
+      <DependentUpon>frmReportNhaSanXuat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportPhieuNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportPhieuNhap.Designer.cs">
+      <DependentUpon>frmReportPhieuNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportPhieuXuat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportPhieuXuat.Designer.cs">
+      <DependentUpon>frmReportPhieuXuat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportSanPham.Designer.cs">
+      <DependentUpon>frmReportSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuanLySieuThiMayTinh.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLySieuThiMayTinh.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="uctDonDatHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uctDonDatHang.designer.cs">
+      <DependentUpon>uctDonDatHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uctHuongDan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uctHuongDan.designer.cs">
+      <DependentUpon>uctHuongDan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uctLoaiSanPham.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uctLoaiSanPham.designer.cs">
+      <DependentUpon>uctLoaiSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uctNhaCungCap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uctNhaCungCap.designer.cs">
+      <DependentUpon>uctNhaCungCap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uctNhanVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uctNhanVien.designer.cs">
+      <DependentUpon>uctNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uctNhaSanXuat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uctNhaSanXuat.designer.cs">
+      <DependentUpon>uctNhaSanXuat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uctPhieuNhap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uctPhieuNhap.designer.cs">
+      <DependentUpon>uctPhieuNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uctPhieuXuat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uctPhieuXuat.designer.cs">
+      <DependentUpon>uctPhieuXuat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uctSanPham.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uctSanPham.designer.cs">
+      <DependentUpon>uctSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uctThongKeDonHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uctThongKeDonHang.designer.cs">
+      <DependentUpon>uctThongKeDonHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uctThongKePhieuNhap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uctThongKePhieuNhap.designer.cs">
+      <DependentUpon>uctThongKePhieuNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uctThongKePhieuXuat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uctThongKePhieuXuat.designer.cs">
+      <DependentUpon>uctThongKePhieuXuat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uctThongKeTonKho.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uctThongKeTonKho.designer.cs">
+      <DependentUpon>uctThongKeTonKho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uctThongTin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uctThongTin.designer.cs">
+      <DependentUpon>uctThongTin.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmKhachHang.resx">
+      <DependentUpon>frmKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPhanQuyen.resx">
+      <DependentUpon>frmPhanQuyen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportDonDatHang.resx">
+      <DependentUpon>frmReportDonDatHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportKhachHang.resx">
+      <DependentUpon>frmReportKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportLoaiSanPham.resx">
+      <DependentUpon>frmReportLoaiSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportNhaCungCap.resx">
+      <DependentUpon>frmReportNhaCungCap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportNhanVien.resx">
+      <DependentUpon>frmReportNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportNhaSanXuat.resx">
+      <DependentUpon>frmReportNhaSanXuat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportPhieuNhap.resx">
+      <DependentUpon>frmReportPhieuNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportPhieuXuat.resx">
+      <DependentUpon>frmReportPhieuXuat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportSanPham.resx">
+      <DependentUpon>frmReportSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="rptDonDatHang.rdlc" />
+    <EmbeddedResource Include="rptKhachHang.rdlc" />
+    <EmbeddedResource Include="rptLoaiSanPham.rdlc" />
+    <EmbeddedResource Include="rptNhaCungCap.rdlc" />
+    <EmbeddedResource Include="rptNhanVien.rdlc" />
+    <EmbeddedResource Include="rptNhaSanXuat.rdlc" />
+    <EmbeddedResource Include="rptPhieuNhap.rdlc" />
+    <EmbeddedResource Include="rptPhieuXuat.rdlc" />
+    <EmbeddedResource Include="rptSanPham.rdlc" />
+    <EmbeddedResource Include="uctDonDatHang.resx">
+      <DependentUpon>uctDonDatHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uctHuongDan.resx">
+      <DependentUpon>uctHuongDan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uctLoaiSanPham.resx">
+      <DependentUpon>uctLoaiSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uctNhaCungCap.resx">
+      <DependentUpon>uctNhaCungCap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uctNhanVien.resx">
+      <DependentUpon>uctNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uctNhaSanXuat.resx">
+      <DependentUpon>uctNhaSanXuat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uctPhieuNhap.resx">
+      <DependentUpon>uctPhieuNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uctPhieuXuat.resx">
+      <DependentUpon>uctPhieuXuat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uctSanPham.resx">
+      <DependentUpon>uctSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uctThongKeDonHang.resx">
+      <DependentUpon>uctThongKeDonHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uctThongKePhieuNhap.resx">
+      <DependentUpon>uctThongKePhieuNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uctThongKePhieuXuat.resx">
+      <DependentUpon>uctThongKePhieuXuat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uctThongKeTonKho.resx">
+      <DependentUpon>uctThongKeTonKho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uctThongTin.resx">
+      <DependentUpon>uctThongTin.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="dtsDonDatHang.xsc">
+      <DependentUpon>dtsDonDatHang.xsd</DependentUpon>
+    </None>
+    <None Include="dtsDonDatHang.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dtsDonDatHang.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dtsDonDatHang.xss">
+      <DependentUpon>dtsDonDatHang.xsd</DependentUpon>
+    </None>
+    <None Include="dtsKhachHang.xsc">
+      <DependentUpon>dtsKhachHang.xsd</DependentUpon>
+    </None>
+    <None Include="dtsKhachHang.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dtsKhachHang.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dtsKhachHang.xss">
+      <DependentUpon>dtsKhachHang.xsd</DependentUpon>
+    </None>
+    <None Include="dtsLoaiSanPham.xsc">
+      <DependentUpon>dtsLoaiSanPham.xsd</DependentUpon>
+    </None>
+    <None Include="dtsLoaiSanPham.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dtsLoaiSanPham.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dtsLoaiSanPham.xss">
+      <DependentUpon>dtsLoaiSanPham.xsd</DependentUpon>
+    </None>
+    <None Include="dtsNhaCungCap.xsc">
+      <DependentUpon>dtsNhaCungCap.xsd</DependentUpon>
+    </None>
+    <None Include="dtsNhaCungCap.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dtsNhaCungCap.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dtsNhaCungCap.xss">
+      <DependentUpon>dtsNhaCungCap.xsd</DependentUpon>
+    </None>
+    <None Include="dtsNhanVien.xsc">
+      <DependentUpon>dtsNhanVien.xsd</DependentUpon>
+    </None>
+    <None Include="dtsNhanVien.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dtsNhanVien.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dtsNhanVien.xss">
+      <DependentUpon>dtsNhanVien.xsd</DependentUpon>
+    </None>
+    <None Include="dtsNhaSanXuat.xsc">
+      <DependentUpon>dtsNhaSanXuat.xsd</DependentUpon>
+    </None>
+    <None Include="dtsNhaSanXuat.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dtsNhaSanXuat.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dtsNhaSanXuat.xss">
+      <DependentUpon>dtsNhaSanXuat.xsd</DependentUpon>
+    </None>
+    <None Include="dtsPhieuNhap.xsc">
+      <DependentUpon>dtsPhieuNhap.xsd</DependentUpon>
+    </None>
+    <None Include="dtsPhieuNhap.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dtsPhieuNhap.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dtsPhieuNhap.xss">
+      <DependentUpon>dtsPhieuNhap.xsd</DependentUpon>
+    </None>
+    <None Include="dtsPhieuXuat.xsc">
+      <DependentUpon>dtsPhieuXuat.xsd</DependentUpon>
+    </None>
+    <None Include="dtsPhieuXuat.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dtsPhieuXuat.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dtsPhieuXuat.xss">
+      <DependentUpon>dtsPhieuXuat.xsd</DependentUpon>
+    </None>
+    <None Include="dtsSanPham.xsc">
+      <DependentUpon>dtsSanPham.xsd</DependentUpon>
+    </None>
+    <None Include="dtsSanPham.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dtsSanPham.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dtsSanPham.xss">
+      <DependentUpon>dtsSanPham.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="QuanLySieuThiMayTinh.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>QuanLySieuThiMayTinh.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLySieuThiMayTinh.dbml.layout">
+      <DependentUpon>QuanLySieuThiMayTinh.dbml</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

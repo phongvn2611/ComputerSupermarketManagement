@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dtsPhieuNhap" targetNamespace="http://tempuri.org/dtsPhieuNhap.xsd" xmlns:mstns="http://tempuri.org/dtsPhieuNhap.xsd" xmlns="http://tempuri.org/dtsPhieuNhap.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QLBANHANGConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QLBANHANGConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.QuanLySieuThiMayTinh.Properties.Settings.GlobalReference.Default.QLBANHANGConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="PhieuNhapTableAdapter" GeneratorDataComponentClassName="PhieuNhapTableAdapter" Name="PhieuNhap" UserDataComponentName="PhieuNhapTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLBANHANGConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT    CTPN.MAPN, PHIEUNHAP.MANV, PHIEUNHAP.MADH, PHIEUNHAP.NGAYNHAP, CTPN.MASP, CTPN.SLN, CTPN.DONGIA
+FROM         CTPN INNER JOIN
+                      PHIEUNHAP ON CTPN.MAPN = PHIEUNHAP.MAPN</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MAPN" DataSetColumn="MAPN" />
+              <Mapping SourceColumn="MANV" DataSetColumn="MANV" />
+              <Mapping SourceColumn="MADH" DataSetColumn="MADH" />
+              <Mapping SourceColumn="NGAYNHAP" DataSetColumn="NGAYNHAP" />
+              <Mapping SourceColumn="MASP" DataSetColumn="MASP" />
+              <Mapping SourceColumn="SLN" DataSetColumn="SLN" />
+              <Mapping SourceColumn="DONGIA" DataSetColumn="DONGIA" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dtsPhieuNhap" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dtsPhieuNhap" msprop:Generator_UserDSName="dtsPhieuNhap">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PhieuNhap" msprop:Generator_TableClassName="PhieuNhapDataTable" msprop:Generator_TableVarName="tablePhieuNhap" msprop:Generator_TablePropName="PhieuNhap" msprop:Generator_RowDeletingName="PhieuNhapRowDeleting" msprop:Generator_RowChangingName="PhieuNhapRowChanging" msprop:Generator_RowEvHandlerName="PhieuNhapRowChangeEventHandler" msprop:Generator_RowDeletedName="PhieuNhapRowDeleted" msprop:Generator_UserTableName="PhieuNhap" msprop:Generator_RowChangedName="PhieuNhapRowChanged" msprop:Generator_RowEvArgName="PhieuNhapRowChangeEvent" msprop:Generator_RowClassName="PhieuNhapRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MAPN" msprop:Generator_ColumnVarNameInTable="columnMAPN" msprop:Generator_ColumnPropNameInRow="MAPN" msprop:Generator_ColumnPropNameInTable="MAPNColumn" msprop:Generator_UserColumnName="MAPN" type="xs:int" />
+              <xs:element name="MANV" msprop:Generator_ColumnVarNameInTable="columnMANV" msprop:Generator_ColumnPropNameInRow="MANV" msprop:Generator_ColumnPropNameInTable="MANVColumn" msprop:Generator_UserColumnName="MANV" type="xs:int" minOccurs="0" />
+              <xs:element name="MADH" msprop:Generator_ColumnVarNameInTable="columnMADH" msprop:Generator_ColumnPropNameInRow="MADH" msprop:Generator_ColumnPropNameInTable="MADHColumn" msprop:Generator_UserColumnName="MADH" type="xs:int" minOccurs="0" />
+              <xs:element name="NGAYNHAP" msprop:Generator_ColumnVarNameInTable="columnNGAYNHAP" msprop:Generator_ColumnPropNameInRow="NGAYNHAP" msprop:Generator_ColumnPropNameInTable="NGAYNHAPColumn" msprop:Generator_UserColumnName="NGAYNHAP" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="MASP" msprop:Generator_ColumnVarNameInTable="columnMASP" msprop:Generator_ColumnPropNameInRow="MASP" msprop:Generator_ColumnPropNameInTable="MASPColumn" msprop:Generator_UserColumnName="MASP" type="xs:int" />
+              <xs:element name="SLN" msprop:Generator_ColumnVarNameInTable="columnSLN" msprop:Generator_ColumnPropNameInRow="SLN" msprop:Generator_ColumnPropNameInTable="SLNColumn" msprop:Generator_UserColumnName="SLN" type="xs:int" minOccurs="0" />
+              <xs:element name="DONGIA" msprop:Generator_ColumnVarNameInTable="columnDONGIA" msprop:Generator_ColumnPropNameInRow="DONGIA" msprop:Generator_ColumnPropNameInTable="DONGIAColumn" msprop:Generator_UserColumnName="DONGIA" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:PhieuNhap" />
+      <xs:field xpath="mstns:MAPN" />
+      <xs:field xpath="mstns:MASP" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

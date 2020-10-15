@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dtsDonDatHang" targetNamespace="http://tempuri.org/dtsDonDatHang.xsd" xmlns:mstns="http://tempuri.org/dtsDonDatHang.xsd" xmlns="http://tempuri.org/dtsDonDatHang.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QLBANHANGConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QLBANHANGConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.QuanLySieuThiMayTinh.Properties.Settings.GlobalReference.Default.QLBANHANGConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DonDatHangTableAdapter" GeneratorDataComponentClassName="DonDatHangTableAdapter" Name="DonDatHang" UserDataComponentName="DonDatHangTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLBANHANGConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT    CTDH.MADH, DONDH.MANV, DONDH.MACC, CTDH.MASP, DONDH.NGDH, CTDH.SLDH
+FROM         CTDH INNER JOIN
+                      DONDH ON CTDH.MADH = DONDH.MADH</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="MADH" DataSetColumn="MADH" />
+              <Mapping SourceColumn="MANV" DataSetColumn="MANV" />
+              <Mapping SourceColumn="MACC" DataSetColumn="MACC" />
+              <Mapping SourceColumn="MASP" DataSetColumn="MASP" />
+              <Mapping SourceColumn="NGDH" DataSetColumn="NGDH" />
+              <Mapping SourceColumn="SLDH" DataSetColumn="SLDH" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dtsDonDatHang" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dtsDonDatHang" msprop:Generator_UserDSName="dtsDonDatHang">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DonDatHang" msprop:Generator_TableClassName="DonDatHangDataTable" msprop:Generator_TableVarName="tableDonDatHang" msprop:Generator_TablePropName="DonDatHang" msprop:Generator_RowDeletingName="DonDatHangRowDeleting" msprop:Generator_RowChangingName="DonDatHangRowChanging" msprop:Generator_RowEvHandlerName="DonDatHangRowChangeEventHandler" msprop:Generator_RowDeletedName="DonDatHangRowDeleted" msprop:Generator_UserTableName="DonDatHang" msprop:Generator_RowChangedName="DonDatHangRowChanged" msprop:Generator_RowEvArgName="DonDatHangRowChangeEvent" msprop:Generator_RowClassName="DonDatHangRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MADH" msprop:Generator_ColumnVarNameInTable="columnMADH" msprop:Generator_ColumnPropNameInRow="MADH" msprop:Generator_ColumnPropNameInTable="MADHColumn" msprop:Generator_UserColumnName="MADH" type="xs:int" />
+              <xs:element name="MANV" msprop:Generator_ColumnVarNameInTable="columnMANV" msprop:Generator_ColumnPropNameInRow="MANV" msprop:Generator_ColumnPropNameInTable="MANVColumn" msprop:Generator_UserColumnName="MANV" type="xs:int" minOccurs="0" />
+              <xs:element name="MACC" msprop:Generator_ColumnVarNameInTable="columnMACC" msprop:Generator_ColumnPropNameInRow="MACC" msprop:Generator_ColumnPropNameInTable="MACCColumn" msprop:Generator_UserColumnName="MACC" type="xs:int" minOccurs="0" />
+              <xs:element name="MASP" msprop:Generator_ColumnVarNameInTable="columnMASP" msprop:Generator_ColumnPropNameInRow="MASP" msprop:Generator_ColumnPropNameInTable="MASPColumn" msprop:Generator_UserColumnName="MASP" type="xs:int" />
+              <xs:element name="NGDH" msprop:Generator_ColumnVarNameInTable="columnNGDH" msprop:Generator_ColumnPropNameInRow="NGDH" msprop:Generator_ColumnPropNameInTable="NGDHColumn" msprop:Generator_UserColumnName="NGDH" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="SLDH" msprop:Generator_ColumnVarNameInTable="columnSLDH" msprop:Generator_ColumnPropNameInRow="SLDH" msprop:Generator_ColumnPropNameInTable="SLDHColumn" msprop:Generator_UserColumnName="SLDH" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DonDatHang" />
+      <xs:field xpath="mstns:MADH" />
+      <xs:field xpath="mstns:MASP" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
